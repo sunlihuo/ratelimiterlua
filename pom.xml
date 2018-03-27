@@ -14,6 +14,7 @@
         <version>2.0.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <modules>
         <module>token-client</module>
         <module>token-server</module>
