@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="token-server:war">
+    <output-path>$PROJECT_DIR$/token-server/target</output-path>
+    <root id="archive" name="ratelimiter-server-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="token-server:war exploded" />
+    </root>
+  </artifact>
+</component>
